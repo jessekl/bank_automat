@@ -1,0 +1,11 @@
+*/node_modules
+/bank-automat/build
+/bank-automat/*.user
+/RestApiDLL/build
+/RestApiDLL/*.user
+/RestApiDLL/RestApiTestExe/build
+/RestApiDLL/RestApiTestExe/*.user
+/PinCodeUI/*.user
+/PinCodeUI/build
+/SerialPortDLL3/*.user
+/SerialPortDLL3/build

@@ -1,0 +1,16 @@
+QWidget {
+    background-color: lightgray;
+    color: black;
+    font-family: Arial;
+}
+
+QPushButton {
+    background-color: blue;
+    color: white;
+    border: 1px solid darkblue;
+    padding: 5px 10px;
+}
+
+QPushButton:hover {
+    background-color: darkblue;
+}
